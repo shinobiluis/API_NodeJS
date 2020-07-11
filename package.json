@@ -1,0 +1,24 @@
+{
+  "name": "node_proyect",
+  "version": "1.0.0",
+  "description": "prueba de node proyect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "proyect",
+    "express",
+    "api",
+    "mongo"
+  ],
+  "author": "Luis Eduardo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "express": "4.17.1",
+    "mongoose": "5.9.23"
+  }
+}
